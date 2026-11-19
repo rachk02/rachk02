@@ -1,0 +1,51 @@
+name: Cartes du profil
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "fonts/**"
+      - "data/**"
+      - "README.md"
+      - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cartes-profil
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lire les contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/fetch_contributions.py
+
+      - name: Dessiner les cartes
+        run: python scripts/render_cards.py
+
+      - name: Publier
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards data
+          if git diff --staged --quiet; then
+            echo "Rien a mettre a jour."
+          else
+            git commit -m "chore: rafraichir les cartes du profil"
+            git push
+          fi
