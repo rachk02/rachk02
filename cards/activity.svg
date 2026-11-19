@@ -48,8 +48,8 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <rect class="anim growy" style="animation-delay:0.40s" x="190.0" y="174.0" width="27" height="2.0" rx="2" fill="#12110F"><title>MAR 2026 : 8 contributions</title></rect>
 <text class="value anim fade" style="animation-delay:0.95s" x="203.5" y="166.0" text-anchor="middle">8</text>
 <text class="mono month anim fade" style="animation-delay:0.40s" x="203.5" y="194">MAR</text>
-<rect class="anim growy" style="animation-delay:0.45s" x="239.0" y="172.7" width="27" height="3.3" rx="2" fill="#12110F"><title>AVR 2026 : 14 contributions</title></rect>
-<text class="value anim fade" style="animation-delay:1.00s" x="252.5" y="164.7" text-anchor="middle">14</text>
+<rect class="anim growy" style="animation-delay:0.45s" x="239.0" y="172.8" width="27" height="3.2" rx="2" fill="#12110F"><title>AVR 2026 : 14 contributions</title></rect>
+<text class="value anim fade" style="animation-delay:1.00s" x="252.5" y="164.8" text-anchor="middle">14</text>
 <text class="mono month anim fade" style="animation-delay:0.45s" x="252.5" y="194">AVR</text>
 <rect class="anim growy" style="animation-delay:0.50s" x="288.0" y="174.0" width="27" height="2.0" rx="2" fill="#12110F"><title>MAI 2026 : 0 contributions</title></rect>
 <text class="value anim fade" style="animation-delay:1.05s" x="301.5" y="166.0" text-anchor="middle">0</text>
@@ -69,8 +69,8 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <rect class="anim growy" style="animation-delay:0.75s" x="533.0" y="174.0" width="27" height="2.0" rx="2" fill="#12110F"><title>OCT 2026 : 1 contributions</title></rect>
 <text class="value anim fade" style="animation-delay:1.30s" x="546.5" y="166.0" text-anchor="middle">1</text>
 <text class="mono month anim fade" style="animation-delay:0.75s" x="546.5" y="194">OCT</text>
-<rect class="anim growy" style="animation-delay:0.80s" x="582.0" y="72.0" width="27" height="104.0" rx="2" fill="#2B4BF2"><title>NOV 2026 : 446 contributions</title></rect>
-<text class="value anim fade" style="animation-delay:1.35s" x="595.5" y="64.0" text-anchor="middle">446</text>
+<rect class="anim growy" style="animation-delay:0.80s" x="582.0" y="72.0" width="27" height="104.0" rx="2" fill="#2B4BF2"><title>NOV 2026 : 448 contributions</title></rect>
+<text class="value anim fade" style="animation-delay:1.35s" x="595.5" y="64.0" text-anchor="middle">448</text>
 <text class="mono month anim fade" style="animation-delay:0.80s" x="595.5" y="194">NOV</text>
 <line x1="640" y1="58" x2="640" y2="190" stroke="#DFD5C1"/>
 <text class="mono statLabel anim fade" style="animation-delay:0.50s" x="660" y="72">SÉRIE EN COURS</text>
