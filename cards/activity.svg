@@ -74,7 +74,7 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <text class="mono month anim fade" style="animation-delay:0.80s" x="595.5" y="194">NOV</text>
 <line x1="640" y1="58" x2="640" y2="190" stroke="#DFD5C1"/>
 <text class="mono statLabel anim fade" style="animation-delay:0.50s" x="660" y="72">SÉRIE EN COURS</text>
-<text class="statValue anim fade" style="animation-delay:0.60s" x="848" y="72" text-anchor="end">1 j</text>
+<text class="statValue anim fade" style="animation-delay:0.60s" x="848" y="72" text-anchor="end">0 j</text>
 <line x1="660" y1="84" x2="848" y2="84" stroke="#DFD5C1" opacity=".7"/>
 <text class="mono statLabel anim fade" style="animation-delay:0.60s" x="660" y="106">RECORD</text>
 <text class="statValue anim fade" style="animation-delay:0.70s" x="848" y="106" text-anchor="end">9 j</text>
