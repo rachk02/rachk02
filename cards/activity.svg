@@ -77,11 +77,11 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <text class="statValue anim fade" style="animation-delay:0.60s" x="848" y="72" text-anchor="end">0 j</text>
 <line x1="660" y1="84" x2="848" y2="84" stroke="#DFD5C1" opacity=".7"/>
 <text class="mono statLabel anim fade" style="animation-delay:0.60s" x="660" y="106">RECORD</text>
-<text class="statValue anim fade" style="animation-delay:0.70s" x="848" y="106" text-anchor="end">9 j</text>
+<text class="statValue anim fade" style="animation-delay:0.70s" x="848" y="106" text-anchor="end">7 j</text>
 <line x1="660" y1="118" x2="848" y2="118" stroke="#DFD5C1" opacity=".7"/>
 <text class="mono statLabel anim fade" style="animation-delay:0.70s" x="660" y="140">JOURS ACTIFS</text>
-<text class="statValue anim fade" style="animation-delay:0.80s" x="848" y="140" text-anchor="end">48</text>
+<text class="statValue anim fade" style="animation-delay:0.80s" x="848" y="140" text-anchor="end">43</text>
 <line x1="660" y1="152" x2="848" y2="152" stroke="#DFD5C1" opacity=".7"/>
 <text class="mono statLabel anim fade" style="animation-delay:0.80s" x="660" y="174">PIC</text>
-<text class="statValue anim fade" style="animation-delay:0.90s" x="848" y="174" text-anchor="end">19 / 22 NOV</text>
+<text class="statValue anim fade" style="animation-delay:0.90s" x="848" y="174" text-anchor="end">19 / 25 NOV</text>
 </svg>
