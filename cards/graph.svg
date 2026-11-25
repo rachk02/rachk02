@@ -32,7 +32,7 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 
 <rect x="0" y="0" width="880" height="190" rx="4" fill="#FBF7EF" stroke="#DFD5C1"/>
 <text class="mono label anim fade" style="animation-delay:.05s" x="32" y="34">CONTRIBUTIONS</text>
-<text class="mono meta anim fade" style="animation-delay:.15s" x="848" y="34" text-anchor="end">135 SUR 12 MOIS</text>
+<text class="mono meta anim fade" style="animation-delay:.15s" x="848" y="34" text-anchor="end">693 SUR 12 MOIS</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="40" y="52">NOV</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="124" y="52">JAN</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="180" y="52">FEV</text>
@@ -45,18 +45,18 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <text class="mono month anim fade" style="animation-delay:.3s" x="614" y="52">SEP</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="670" y="52">OCT</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="726" y="52">NOV</text>
-<rect class="anim fade" style="animation-delay:0.100s" x="40" y="62" width="12" height="12" rx="2" fill="#9AACF8"><title>2025-11-23 : 7 contributions</title></rect>
-<rect class="anim fade" style="animation-delay:0.102s" x="40" y="76" width="12" height="12" rx="2" fill="#6279F4"><title>2025-11-24 : 12 contributions</title></rect>
-<rect class="anim fade" style="animation-delay:0.104s" x="40" y="90" width="12" height="12" rx="2" fill="#2B4BF2"><title>2025-11-25 : 19 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.100s" x="40" y="62" width="12" height="12" rx="2" fill="#C9D3FA"><title>2025-11-23 : 7 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.102s" x="40" y="76" width="12" height="12" rx="2" fill="#C9D3FA"><title>2025-11-24 : 12 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.104s" x="40" y="90" width="12" height="12" rx="2" fill="#9AACF8"><title>2025-11-25 : 19 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.106s" x="40" y="104" width="12" height="12" rx="2" fill="#C9D3FA"><title>2025-11-26 : 1 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.108s" x="40" y="118" width="12" height="12" rx="2" fill="#2B4BF2"><title>2025-11-27 : 18 contributions</title></rect>
-<rect class="anim fade" style="animation-delay:0.110s" x="40" y="132" width="12" height="12" rx="2" fill="#9AACF8"><title>2025-11-28 : 5 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.108s" x="40" y="118" width="12" height="12" rx="2" fill="#9AACF8"><title>2025-11-27 : 18 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.110s" x="40" y="132" width="12" height="12" rx="2" fill="#C9D3FA"><title>2025-11-28 : 5 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.112s" x="40" y="146" width="12" height="12" rx="2" fill="#C9D3FA"><title>2025-11-29 : 3 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.112s" x="54" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2025-11-30 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.114s" x="54" y="76" width="12" height="12" rx="2" fill="#E8E0CF"><title>2025-12-01 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.116s" x="54" y="90" width="12" height="12" rx="2" fill="#E8E0CF"><title>2025-12-02 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.118s" x="54" y="104" width="12" height="12" rx="2" fill="#E8E0CF"><title>2025-12-03 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.120s" x="54" y="118" width="12" height="12" rx="2" fill="#9AACF8"><title>2025-12-04 : 5 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.120s" x="54" y="118" width="12" height="12" rx="2" fill="#C9D3FA"><title>2025-12-04 : 5 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.122s" x="54" y="132" width="12" height="12" rx="2" fill="#E8E0CF"><title>2025-12-05 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.124s" x="54" y="146" width="12" height="12" rx="2" fill="#E8E0CF"><title>2025-12-06 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.124s" x="68" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2025-12-07 : 0 contribution</title></rect>
@@ -90,7 +90,7 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <rect class="anim fade" style="animation-delay:0.172s" x="124" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-01-04 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.174s" x="124" y="76" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-01-05 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.176s" x="124" y="90" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-01-06 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.178s" x="124" y="104" width="12" height="12" rx="2" fill="#9AACF8"><title>2026-01-07 : 5 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.178s" x="124" y="104" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-01-07 : 5 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.180s" x="124" y="118" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-01-08 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.182s" x="124" y="132" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-01-09 : 1 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.184s" x="124" y="146" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-01-10 : 2 contributions</title></rect>
@@ -180,7 +180,7 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <rect class="anim fade" style="animation-delay:0.328s" x="292" y="146" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-04-04 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.328s" x="306" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-04-05 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.330s" x="306" y="76" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-04-06 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.332s" x="306" y="90" width="12" height="12" rx="2" fill="#6279F4"><title>2026-04-07 : 8 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.332s" x="306" y="90" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-04-07 : 8 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.334s" x="306" y="104" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-04-08 : 2 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.336s" x="306" y="118" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-04-09 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.338s" x="306" y="132" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-04-10 : 1 contribution</title></rect>
@@ -287,7 +287,7 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <rect class="anim fade" style="animation-delay:0.510s" x="516" y="76" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-07-20 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.512s" x="516" y="90" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-07-21 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.514s" x="516" y="104" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-07-22 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.516s" x="516" y="118" width="12" height="12" rx="2" fill="#9AACF8"><title>2026-07-23 : 5 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.516s" x="516" y="118" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-07-23 : 5 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.518s" x="516" y="132" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-07-24 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.520s" x="516" y="146" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-07-25 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.520s" x="530" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-07-26 : 0 contribution</title></rect>
@@ -396,22 +396,23 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <rect class="anim fade" style="animation-delay:0.698s" x="726" y="132" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-06 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.700s" x="726" y="146" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-07 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.700s" x="740" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-08 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.702s" x="740" y="76" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-09 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.704s" x="740" y="90" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-10 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.706s" x="740" y="104" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-11 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.708s" x="740" y="118" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-12 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.710s" x="740" y="132" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-13 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.712s" x="740" y="146" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-14 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.712s" x="754" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-15 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.714s" x="754" y="76" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-16 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.716s" x="754" y="90" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-17 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.718s" x="754" y="104" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-18 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.720s" x="754" y="118" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-11-19 : 3 contributions</title></rect>
-<rect class="anim fade" style="animation-delay:0.722s" x="754" y="132" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-20 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.724s" x="754" y="146" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-21 : 0 contribution</title></rect>
-<rect class="anim fade" style="animation-delay:0.724s" x="768" y="62" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-22 : 0 contribution</title></rect>
+<rect class="anim fade" style="animation-delay:0.702s" x="740" y="76" width="12" height="12" rx="2" fill="#6279F4"><title>2026-11-09 : 40 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.704s" x="740" y="90" width="12" height="12" rx="2" fill="#6279F4"><title>2026-11-10 : 37 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.706s" x="740" y="104" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-11 : 50 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.708s" x="740" y="118" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-12 : 69 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.710s" x="740" y="132" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-13 : 45 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.712s" x="740" y="146" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-11-14 : 10 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.712s" x="754" y="62" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-15 : 60 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.714s" x="754" y="76" width="12" height="12" rx="2" fill="#6279F4"><title>2026-11-16 : 39 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.716s" x="754" y="90" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-11-17 : 13 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.718s" x="754" y="104" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-18 : 57 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.720s" x="754" y="118" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-19 : 53 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.722s" x="754" y="132" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-11-20 : 8 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.724s" x="754" y="146" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-11-21 : 11 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.724s" x="768" y="62" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-11-22 : 9 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.726s" x="768" y="76" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-23 : 0 contribution</title></rect>
 <rect class="anim fade" style="animation-delay:0.728s" x="768" y="90" width="12" height="12" rx="2" fill="#E8E0CF"><title>2026-11-24 : 0 contribution</title></rect>
+<rect class="anim fade" style="animation-delay:0.730s" x="768" y="104" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-25 : 60 contributions</title></rect>
 <text class="mono meta" x="744" y="178" text-anchor="end">MOINS</text>
 <rect x="754" y="170" width="11" height="11" rx="2" fill="#C9D3FA"/>
 <rect x="768" y="170" width="11" height="11" rx="2" fill="#9AACF8"/>
