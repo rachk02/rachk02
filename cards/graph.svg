@@ -32,7 +32,7 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 
 <rect x="0" y="0" width="880" height="190" rx="4" fill="#FBF7EF" stroke="#DFD5C1"/>
 <text class="mono label anim fade" style="animation-delay:.05s" x="32" y="34">CONTRIBUTIONS</text>
-<text class="mono meta anim fade" style="animation-delay:.15s" x="848" y="34" text-anchor="end">873 SUR 12 MOIS</text>
+<text class="mono meta anim fade" style="animation-delay:.15s" x="848" y="34" text-anchor="end">875 SUR 12 MOIS</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="40" y="52">NOV</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="124" y="52">JAN</text>
 <text class="mono month anim fade" style="animation-delay:.3s" x="180" y="52">FEV</text>
@@ -415,6 +415,7 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <rect class="anim fade" style="animation-delay:0.730s" x="768" y="104" width="12" height="12" rx="2" fill="#2B4BF2"><title>2026-11-25 : 64 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.732s" x="768" y="118" width="12" height="12" rx="2" fill="#9AACF8"><title>2026-11-26 : 26 contributions</title></rect>
 <rect class="anim fade" style="animation-delay:0.734s" x="768" y="132" width="12" height="12" rx="2" fill="#9AACF8"><title>2026-11-27 : 24 contributions</title></rect>
+<rect class="anim fade" style="animation-delay:0.736s" x="768" y="146" width="12" height="12" rx="2" fill="#C9D3FA"><title>2026-11-28 : 2 contributions</title></rect>
 <text class="mono meta" x="744" y="178" text-anchor="end">MOINS</text>
 <rect x="754" y="170" width="11" height="11" rx="2" fill="#C9D3FA"/>
 <rect x="768" y="170" width="11" height="11" rx="2" fill="#9AACF8"/>
